@@ -1,6 +1,12 @@
 # ea-irc-proxy 
-[*f.u.c.k.u.p*](https://github.com/f-u-c-k-u-p/)
+
 [https://github.com/hagb4rd/ea-irc-proxy.git](https://github.com/hagb4rd/ea-irc-proxy.git)
+
+
+#### Contact 
+ * IRC: [ircs://webchat.freenode.net:6697/#node.js](ircs://webchat.freenode.net:6697/%23node.js)
+ * IrcCloud: [irc.freenode.net/#node.js](https://irccloud.com/#!/ircs://chat.freenode.net:6697/%23node.js)
+ * GitHub: [earendel](https://github.com/hagb4rd?tab=repositories)  [*f.u.c.k.u.p*](https://github.com/f-u-c-k-u-p/)
 
 
 #### ** WARNING **
