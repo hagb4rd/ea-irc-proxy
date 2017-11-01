@@ -1,0 +1,35 @@
+{
+  "name": "ea-irc-proxy",
+  "version": "0.0.1",
+  "description": "please don't install.. developer playground",
+  "main": "./lib/irc-proxy.js",
+  "bin": {
+    "irc-proxy": "./cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hagb4rd/ea-irc-proxy.git"
+  },
+  "dependencies": {
+    "ea-lib": "0.0.16",
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [
+    "irc",
+    "proxy",
+    "bouncer"
+  ],
+  "author": "hagb4rd@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hagb4rd/ea-irc-proxy/issues"
+  },
+  "homepage": "https://github.com/f-u-c-k-u-p/",
+  "directories": {
+    "lib": "lib"
+  }
+}
